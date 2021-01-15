@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Workshop-tailwind-css
 
 
@@ -133,3 +134,8 @@ Though I would make sure you understand it first, or else you will get overwhelm
 ![good luck pikachu](https://media2.giphy.com/media/mqWZoUiub0cyA/giphy.gif)
 
 
+=======
+# tailwind-css
+
+https://victoriasof.github.io/tailwind-css/
+>>>>>>> bc704475d64ed92c3d16c2862b0135dc72e3f8f2
