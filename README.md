@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 # Workshop-tailwind-css
 
+https://github.com/MonoraxXiV/Workshop-tailwind-css
 
 ## Learning objectives
 
@@ -133,7 +133,5 @@ Though I would make sure you understand it first, or else you will get overwhelm
 
 ![good luck pikachu](https://media2.giphy.com/media/mqWZoUiub0cyA/giphy.gif)
 
+MY RESULT: https://victoriasof.github.io/tailwind-css/
 
-=======
-# tailwind-css
->>>>>>> 8571324dc198f408075e6559f32450362a37e29a
